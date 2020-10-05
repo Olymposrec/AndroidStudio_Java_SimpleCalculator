@@ -9,3 +9,6 @@ Kullanılanlar:
 - Kalabalık layout elemanlarına Constraint verme
 - Toplama, Çıkarma, Bölme ve Çarpma işlemi kodları
 - Input elemanlarını sınırlamak, button özellikleri
+
+
+Kotlin kodları ve Java kodları ile çok basit hesap makinesi yapma.
